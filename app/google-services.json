@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "932066020320",
+    "firebase_url": "https://quizfirestore-c23d7.firebaseio.com",
+    "project_id": "quizfirestore-c23d7",
+    "storage_bucket": "quizfirestore-c23d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932066020320:android:f242b0e3660e6390a9f985",
+        "android_client_info": {
+          "package_name": "com.example.quizfirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932066020320-qjuf1g2cvf7qf5tn0q6qlvgj00sl9m43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGdBU6wagi2atR76C3UbWEMav9I_a9uO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932066020320-qjuf1g2cvf7qf5tn0q6qlvgj00sl9m43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

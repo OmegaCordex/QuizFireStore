@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QuizFireStore</string>
+    <string name="textview">Text View</string>
+</resources>
